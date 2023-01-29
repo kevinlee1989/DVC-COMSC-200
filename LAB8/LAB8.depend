@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1667272554 source:c:\users\jwl09\onedrive - contra costa community college district employees\f22-comsc-210-2181\lab8\main.cpp
+	<iostream>
+	<ctime>
+	<vector>
+	<iomanip>
+	<cstdlib>
+	<algorithm>
+	"myHeap.h"
+
+1667270512 c:\users\jwl09\onedrive - contra costa community college district employees\f22-comsc-210-2181\lab8\myheap.h
+	<algorithm>
+	<iostream>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1664234105 source:c:\users\jwl09\onedrive - contra costa community college district employees\f22-comsc-210-2181\lab4\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cassert>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
